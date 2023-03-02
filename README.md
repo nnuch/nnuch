@@ -8,3 +8,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nnuch&layout=compact&bg_color=f8f8ff&langs_count=10" /></a>
   
 </div>
+
+
+- Self-motivated and Self-taught professional with demonstrated manual and automation testing!
+- Highly organized, collaborative, extreme accountability & ownership
+- Let's connect!
+
