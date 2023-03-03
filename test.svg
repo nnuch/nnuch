@@ -6,10 +6,10 @@
   	xml:space="preserve">
 
 
-  	<text x="12%" y="40%" class="word1" font-size="20px">Software QA Analyst </text>
-  	<text x="48%" y="40%" class="word2">| </text>
-  	<text x="50%" y="40%" class="word3">QA Automation </text>
-  	<text x="77%" y="40%" class="word4">✩ </text>
+  	<text x="15%" y="90%" class="word1" font-size="20px">Software QA Analyst </text>
+  	<text x="50%" y="90%" class="word2">| </text>
+  	<text x="53%" y="90%" class="word3">QA Automation </text>
+  	<text x="80%" y="90%" class="word4">✩ </text>
 
    <style>
 
