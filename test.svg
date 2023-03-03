@@ -2,14 +2,14 @@
   	xmlns="http://www.w3.org/2000/svg" 
   	xmlns:xlink="http://www.w3.org/1999/xlink" 
   	version="1.1"   
-  	viewBox="0 0 1100 100" 
+  	viewBox="0 0 1100 150" 
   	xml:space="preserve">
 
 
-  	<text x="15%" y="90%" class="word1" font-size="20px">Software QA Analyst </text>
-  	<text x="50%" y="90%" class="word2">| </text>
-  	<text x="53%" y="90%" class="word3">QA Automation </text>
-  	<text x="80%" y="90%" class="word4">✩ </text>
+  	<text x="15%" y="70%" class="word1" font-size="20px">Software QA Analyst </text>
+  	<text x="50%" y="70%" class="word2">| </text>
+  	<text x="53%" y="70%" class="word3">QA Automation </text>
+  	<text x="80%" y="70%" class="word4">✩ </text>
 
    <style>
 
