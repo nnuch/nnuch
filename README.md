@@ -1,4 +1,6 @@
-<h3 align="center"> Software QA Analyst | QA Automation ✩ </h4>
+<div align="center" >
+  <img align="center" src="https://github.com/nnuch/nnuch/blob/main/test.svg/">
+</div>
 
 -----
 
