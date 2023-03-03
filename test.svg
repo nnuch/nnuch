@@ -38,7 +38,7 @@
 
       text {
         font-size: 44px;
-        fill: green;
+        fill: darkgreen;
         transform: translateY(3px);
         animation: wavyText 1.3s alternate steps(2, end) infinite;
       }
