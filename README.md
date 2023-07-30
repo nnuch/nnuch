@@ -12,8 +12,3 @@
 </div>
 
 
-#### Hello | Bonjour 
-- Self-motivated and Self-taught professional with demonstrated manual and automation testing!
-- Highly organized, collaborative, extreme accountability & ownership
-- Let's connect!
-
